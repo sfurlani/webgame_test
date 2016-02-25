@@ -2,3 +2,5 @@
 /nbproject/private/
 /build/
 /node_modules/
+*.log
+*.min.js
